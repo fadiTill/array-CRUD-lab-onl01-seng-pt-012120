@@ -1,19 +1,18 @@
 def create_an_empty_array
   []
 end
-end
+
 
 def create_an_array
   create_an_array = ["fadi","mike","alex","william"]
 end
-end
+
 
 
 def add_element_to_end_of_array(array, element)
-  array = ["fadi","mike","alex","william"]
-  array.push("aiche")
+  array = ["wow", "I", "am", "really", "learning"]
+  array.push("arrays!")
   puts array.inspect
-end
 end
 
 def add_element_to_start_of_array(array, element)
