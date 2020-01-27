@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  create_an_array = ["fadi","mike","alex","william","cat"]
+  create_an_array = ["fadi","mike","alex","william"]
 end
 
 
