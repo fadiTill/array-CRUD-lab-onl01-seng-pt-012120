@@ -3,16 +3,16 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["fadi","mike","alex","william"]
+  create_an_array["fadi","mike","alex","william"]
 end
 
 
 def add_element_to_end_of_array(array, element)
-
+add_element_to_end_of_array << "aiche"
 end
 
 def add_element_to_start_of_array(array, element)
-
+add_ele
 end
 
 def remove_element_from_end_of_array(array)
